@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+table{
+    width: 500px;
+    table-layout: fixed;
+    border: 5px solid white;
+    color: white;
+}
+td, th{
+    height: 50px;
+    vertical-align: middle;
+    text-align: center;
+    border: 1px solid #fff;
+}
+th{
+    text-transform:uppercase;
+}
+img{
+    width: 500px;
+}
